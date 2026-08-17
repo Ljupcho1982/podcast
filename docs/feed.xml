@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Целта зад тоа</title>
+    <link>https://ljupcho1982.github.io/podcast/</link>
+    <atom:link href="https://ljupcho1982.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>mk</language>
+    <copyright>© 2026 Љупчо Семов, CC BY-NC 4.0</copyright>
+    <description>Секое однесување служи некому за нешто — и тоа речиси никогаш не е она што го кажуваме гласно. Во секоја епизода земаме една навика, една одлука или еден симптом, и бараме што всушност работи за нас. Наративно, на македонски, со имиња и датуми.</description>
+    <lastBuildDate>Mon, 17 Aug 2026 22:39:42 +0200</lastBuildDate>
+    <image>
+      <url>https://ljupcho1982.github.io/podcast/cover.jpg</url>
+      <title>Целта зад тоа</title>
+      <link>https://ljupcho1982.github.io/podcast/</link>
+    </image>
+    <itunes:author>Љупчо Семов</itunes:author>
+    <itunes:subtitle>Подкаст за психологија, однесување и работи што ги правиме без да знаеме зошто</itunes:subtitle>
+    <itunes:summary>Секое однесување служи некому за нешто — и тоа речиси никогаш не е она што го кажуваме гласно. Во секоја епизода земаме една навика, една одлука или еден симптом, и бараме што всушност работи за нас. Наративно, на македонски, со имиња и датуми.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://ljupcho1982.github.io/podcast/cover.jpg"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Љупчо Семов</itunes:name>
+      <itunes:email>smeni-me@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Цигарата има цел</title>
+      <link>https://ljupcho1982.github.io/podcast/#01-cigarata-ima-cel</link>
+      <guid isPermaLink="false">https://ljupcho1982.github.io/podcast/01-cigarata-ima-cel</guid>
+      <pubDate>Mon, 17 Aug 2026 22:00:00 +0200</pubDate>
+      <description>Човек излегува од состанок „на цигара“ и никој не го прашува ништо. Тргнувајќи од таа сцена, епизодата го следи Алфред Адлер — виенскиот лекар што ја свртел психологијата од причина кон цел — и објаснува зошто броењето денови без цигара најчесто пука околу третата недела. Осумте цели на една цигара, приватната логика зад неа, зошто срамот е гориво за рецидив, и што вели Адлер дека е лекот. Накрај: апликација што го мери сето тоа.
+
+Апликацијата Смелост: https://ljupcho1982.github.io/smelost/
+Изворен код: https://github.com/Ljupcho1982/smelost</description>
+      <enclosure url="https://github.com/Ljupcho1982/podcast/releases/download/ep01/01-cigarata-ima-cel.mp3" length="7176299" type="audio/mpeg"/>
+      <itunes:title>Цигарата има цел</itunes:title>
+      <itunes:subtitle>Алфред Адлер и прашањето што никој не го поставува</itunes:subtitle>
+      <itunes:summary>Човек излегува од состанок „на цигара“ и никој не го прашува ништо. Тргнувајќи од таа сцена, епизодата го следи Алфред Адлер — виенскиот лекар што ја свртел психологијата од причина кон цел — и објаснува зошто броењето денови без цигара најчесто пука околу третата недела. Осумте цели на една цигара, приватната логика зад неа, зошто срамот е гориво за рецидив, и што вели Адлер дека е лекот. Накрај: апликација што го мери сето тоа.
+
+Апликацијата Смелост: https://ljupcho1982.github.io/smelost/
+Изворен код: https://github.com/Ljupcho1982/smelost</itunes:summary>
+      <itunes:author>Љупчо Семов</itunes:author>
+      <itunes:duration>00:09:57</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

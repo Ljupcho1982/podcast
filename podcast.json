@@ -1,0 +1,17 @@
+{
+  "title": "Целта зад тоа",
+  "subtitle": "Подкаст за психологија, однесување и работи што ги правиме без да знаеме зошто",
+  "description": "Секое однесување служи некому за нешто — и тоа речиси никогаш не е она што го кажуваме гласно. Во секоја епизода земаме една навика, една одлука или еден симптом, и бараме што всушност работи за нас. Наративно, на македонски, со имиња и датуми.",
+  "author": "Љупчо Семов",
+  "ownerName": "Љупчо Семов",
+  "ownerEmail": "smeni-me@example.com",
+  "language": "mk",
+  "category": "Health & Fitness",
+  "subcategory": "Mental Health",
+  "explicit": false,
+  "copyright": "© 2026 Љупчо Семов, CC BY-NC 4.0",
+  "siteUrl": "https://ljupcho1982.github.io/podcast/",
+  "feedUrl": "https://ljupcho1982.github.io/podcast/feed.xml",
+  "coverUrl": "https://ljupcho1982.github.io/podcast/cover.jpg",
+  "releaseBase": "https://github.com/Ljupcho1982/podcast/releases/download"
+}

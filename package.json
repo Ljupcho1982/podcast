@@ -1,0 +1,16 @@
+{
+  "name": "podcast-celta-zad-toa",
+  "version": "1.0.0",
+  "description": "Целта зад тоа — наративен подкаст на македонски. Самостоен RSS фид на GitHub Pages, аудиото во Releases.",
+  "scripts": {
+    "cover": "node tools/make-cover.js",
+    "feed": "node tools/build-feed.js && node tools/check-feed.js",
+    "check": "node tools/check-feed.js",
+    "serve": "python -m http.server 4200 --directory docs"
+  },
+  "license": "CC-BY-NC-4.0",
+  "type": "commonjs",
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}
