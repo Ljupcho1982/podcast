@@ -20,6 +20,12 @@ from pathlib import Path
 
 import edge_tts
 
+# Windows-конзолата стандардно е cp1252 и пука на кирилица среде работа —
+# синтезата завршува, но скриптата паѓа при печатење на пораката.
+for stream in (sys.stdout, sys.stderr):
+    if hasattr(stream, "reconfigure"):
+        stream.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parent.parent
 VOICES = {
     "m": "mk-MK-AleksandarNeural",

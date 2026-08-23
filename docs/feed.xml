@@ -10,7 +10,7 @@
     <language>mk</language>
     <copyright>© 2026 Љупчо Семов, CC BY-NC 4.0</copyright>
     <description>Секое однесување служи некому за нешто — и тоа речиси никогаш не е она што го кажуваме гласно. Во секоја епизода земаме една навика, една одлука или еден симптом, и бараме што всушност работи за нас. Наративно, на македонски, со имиња и датуми.</description>
-    <lastBuildDate>Mon, 17 Aug 2026 22:39:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:46:59 +0200</lastBuildDate>
     <image>
       <url>https://ljupcho1982.github.io/podcast/cover.jpg</url>
       <title>Целта зад тоа</title>
@@ -29,6 +29,30 @@
       <itunes:name>Љупчо Семов</itunes:name>
       <itunes:email>smeni-me@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Зошто чекаме</title>
+      <link>https://ljupcho1982.github.io/podcast/#02-zoshto-chekame</link>
+      <guid isPermaLink="false">https://ljupcho1982.github.io/podcast/02-zoshto-chekame</guid>
+      <pubDate>Sun, 23 Aug 2026 13:00:00 +0200</pubDate>
+      <description>Соба полна луѓе кажува убави работи за еден човек — а ниту еден од тие зборови никогаш не му бил кажан нему. Епизодата тргнува од таа сцена и оди по три траги: јапонскиот обичај сеизенсо, каде што човекот седи во собата и слуша; студијата на Мартин Селигман од 2005 година, во која „посетата на благодарност“ дава најголем скок на среќата од сите вежби — и потоа бледее; и реминисценцијата кај постари луѓе, каде конкретното добро сеќавање мерливо крева расположба. Заклучокот не е дека не вреди, туку дека благодарноста не е настан, туку ритам. Накрај: зошто гласот е единственото што не може да се направи подоцна, и апликација што го фаќа.
+
+Апликацијата Добрина: https://ljupcho1982.github.io/dobrina/
+Отвори ја во прелистувач: https://ljupcho1982.github.io/dobrina/app/
+Изворен код: https://github.com/Ljupcho1982/dobrina</description>
+      <enclosure url="https://github.com/Ljupcho1982/podcast/releases/download/ep02/02-zoshto-chekame.mp3" length="6961886" type="audio/mpeg"/>
+      <itunes:title>Зошто чекаме</itunes:title>
+      <itunes:subtitle>Благодарноста што секогаш се одложува за подоцна</itunes:subtitle>
+      <itunes:summary>Соба полна луѓе кажува убави работи за еден човек — а ниту еден од тие зборови никогаш не му бил кажан нему. Епизодата тргнува од таа сцена и оди по три траги: јапонскиот обичај сеизенсо, каде што човекот седи во собата и слуша; студијата на Мартин Селигман од 2005 година, во која „посетата на благодарност“ дава најголем скок на среќата од сите вежби — и потоа бледее; и реминисценцијата кај постари луѓе, каде конкретното добро сеќавање мерливо крева расположба. Заклучокот не е дека не вреди, туку дека благодарноста не е настан, туку ритам. Накрај: зошто гласот е единственото што не може да се направи подоцна, и апликација што го фаќа.
+
+Апликацијата Добрина: https://ljupcho1982.github.io/dobrina/
+Отвори ја во прелистувач: https://ljupcho1982.github.io/dobrina/app/
+Изворен код: https://github.com/Ljupcho1982/dobrina</itunes:summary>
+      <itunes:author>Љупчо Семов</itunes:author>
+      <itunes:duration>00:09:40</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Цигарата има цел</title>
       <link>https://ljupcho1982.github.io/podcast/#01-cigarata-ima-cel</link>
